@@ -1,0 +1,43 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": true,
+    "window.menuBarVisibility": "default",
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.visible": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": false,
+    "path-intellisense.extensionOnImport": true,
+    "path-intellisense.showHiddenFiles": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "vim.cursorStylePerMode.insert": "line-thin",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.visual": "line",
+    "vim.cursorStylePerMode.visualblock": "line",
+    "vim.normalModeKeyBindings": [
+          {
+              "before": ["r","r"],
+              "after": ["C-r"]
+          },
+          {
+              "before":["c","o"],
+              "after":["C-o"]
+          }
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.inlineValues": true,
+    "winopacity.opacity": 235,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.wordWrap": "on",
+    "vetur.format.options.tabSize": 4,
+}
