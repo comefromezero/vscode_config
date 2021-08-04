@@ -14,11 +14,11 @@ echo plugin
 
 if exist %Extensions_% (
 	
-	WinRAR x -o+ vscode_config.part1.rar %Extensions_% 
+	WinRAR x -o+ vscode_config.part01.rar %Extensions_% 
 	
 ) else (
 	md %Extensions_%
-	WinRAR x -o+ vscode_config.part1.rar %Extensions_% 
+	WinRAR x -o+ vscode_config.part01.rar %Extensions_% 
 )
 
 echo plugin config
