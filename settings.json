@@ -40,4 +40,7 @@
     },
     "editor.wordWrap": "on",
     "vetur.format.options.tabSize": 4,
+    "files.associations": {
+        "*.vue": "html"
+    }
 }
